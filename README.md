@@ -1,4 +1,6 @@
-# teckel-backend
+# Teckel's backend
+
+![https://kdrachtidis.github.io/bootstrap-teckel-tutorial/](https://kdrachtidis.github.io/bootstrap-teckel-tutorial/img/Teckel-Default@1x.png "Teckel")
 
 ## Eclipse-Java Project for Teckel Backend
 How to deploy to SAP Cloud Platform
